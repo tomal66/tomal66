@@ -68,10 +68,13 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=tomal66&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<img src="https://github-readme-stats.vercel.app/api?username=tomal66&show_icons=true&count_private=true&hide_border=true" align="left" />  
+
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomal66&hide_border=true&layout=compact" align="right" /></div>  
 
 <br/>  
-  
+
+
 
 <br/>  
 
